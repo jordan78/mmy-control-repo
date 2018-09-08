@@ -3,12 +3,8 @@ forge "http://forge.puppetlabs.com"
 mod "puppetlabs/inifile",     :latest
 mod "puppetlabs/stdlib",      :latest
 mod "puppetlabs/concat",      :latest
-mod "puppetlabs/firewall",    :latest
-mod "puppetlabs/apache",      :latest
 mod "puppetlabs/translate",   :latest
-mod "puppetlabs/stdlib",      :latest
 mod "puppet/staging",         :latest
-mod "puppetlabs/mysql",   :latest
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
