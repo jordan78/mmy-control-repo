@@ -1,8 +1,8 @@
 forge "http://forge.puppetlabs.com"
 
 mod "puppetlabs/inifile",     :latest
-mod "puppetlabs/stdlib",      '4.13.1'
-mod "puppetlabs/concat",      '4.13.1'
+mod "puppetlabs/stdlib",      "4.13.1"
+mod "puppetlabs/concat",      "4.13.1"
 mod "puppetlabs/translate",   :latest
 mod "puppet/staging",         :latest
 mod "puppetlabs/apache",      :latest
