@@ -1,7 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
 mod "puppetlabs/inifile",     '1.5.0'
-mod "puppetlabs/stdlib",      '4.11.0'
+mod "puppetlabs/stdlib",      '5.0.0'
 mod "puppetlabs/concat",      '2.1.0'
 mod "puppetlabs/firewall",    '1.12.0'
 mod "puppetlabs/apache",      '3.2.0'
