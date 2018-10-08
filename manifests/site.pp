@@ -29,16 +29,6 @@ node default {
   # This is where you can declare classes for all nodes.
   # Example:
   #   class { 'my_class': }
-   Firewall {
-                before  => Class['my_fw::post'],
-                require => Class['my_fw::pre'],
-        }
-
-        Firewall { '100 allow http and https access':
-                 dport  => [80, 443],
-                 proto  => tcp,
-                 action => accept,
-        }
-
+   
   
 }
